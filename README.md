@@ -1,7 +1,7 @@
 # DAEDAL downloads
 
 Free tools for video editors — Premiere Pro panels, standalone apps, LUTs, film assets and sound effects.
-Browse everything, with previews and install guides, at **https://daedal-website.lucian-sofronie.workers.dev/**
+Browse everything, with previews and install guides, at **https://daedal.art/**
 
 Everything here is free. No accounts, no email, no paywall. Donations are welcome and never required.
 
